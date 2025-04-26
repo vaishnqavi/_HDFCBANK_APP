@@ -1,1 +1,2 @@
-print["we are learning git hub"]
+#include<stdio.h>
+main()
